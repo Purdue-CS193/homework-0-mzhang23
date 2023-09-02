@@ -1,4 +1,4 @@
-#Max's First CS193 Homework
+# Max's First CS193 Homework
 
 - Creative
 - Satisfying
